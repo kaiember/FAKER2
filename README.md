@@ -1,4 +1,8 @@
 # hi
+# install faker library
+```sh
+pip install faker
+```
 ## basic syntax
 ```python
 from faker import Faker
