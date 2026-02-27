@@ -14,4 +14,3 @@ for y in range(5):
     print(f" ="*30)
 
 ‘‘‘
-‘‘‘
