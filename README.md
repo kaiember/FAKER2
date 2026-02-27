@@ -1,6 +1,6 @@
 # hi
 ## basic syntax
-‘‘‘
+```python
 from faker import Faker
 import os
 fake = Faker()
@@ -13,4 +13,4 @@ for y in range(5):
     print(f" text: {fake.text()}")
     print(f" ="*30)
 
-‘‘‘
+```
